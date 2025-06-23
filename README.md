@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 ```bash
-> I’m Aadil aka Plug0007
+> I’m Aadil Asif Badhra aka Raelyaan Plug
 > Cybersecurity Learner | Full Stack Curious | CTF Hunter
 > Passionate about Linux, Python, Networking, & Hacking Tools
 ```
