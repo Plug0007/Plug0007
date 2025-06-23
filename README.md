@@ -79,7 +79,9 @@
 ## 🐍 GitHub Snake Contribution Animation
 
 <p align="center">
-  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Plug0007/Plug0007/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Plug0007/Plug0007/output/snake.svg" alt="Snake animation" />
+
+###
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Plug0007&style=flat-square)
