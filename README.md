@@ -1,59 +1,85 @@
-# 👋 Hi, I'm @Plug0007
 
-I'm a beginner in the world of cybersecurity, passionate about learning and exploring ethical hacking and penetration testing. I may be new, but I'm eager to dive deep, experiment, and grow with every challenge I encounter.
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I+am+Plug0007;Cybersecurity+Enthusiast;CTF+Player+%7C+Full-Stack+Learner;Hacking+My+Way+Through+Tech!&center=true&size=30">
+</h1>
 
-## About Me
-
-- **Interests:** Cybersecurity, Ethical Hacking, Penetration Testing, and Continuous Learning.
-- **Status:** Just started my journey in cybersecurity and excited to learn more every day.
-- **Current Focus:** Exploring advanced networking concepts, Linux environments, and TryHackMe challenges to build a solid foundation.
-- **Fun Fact:** I started my cybersecurity journey at 18, and though I'm just beginning, every puzzle and hacking challenge fuels my passion for knowledge.
-
-## Skills & Technologies
-
-While I'm just starting, here are some areas I'm exploring:
-
-- **Cybersecurity Tools:** Learning to use tools like Nmap, Wireshark, and Metasploit.
-- **Programming Languages:** Starting with Python and Bash.
-- **Operating Systems:** Familiarizing myself with Linux (Kali, Ubuntu) and Windows.
-- **Networking:** Grasping the fundamentals of networking, VPNs, firewalls, and protocols.
-
-## Projects
-
-I'm in the early stages of creating and contributing to projects. Some ideas I'm working on include:
-
-- **Learning Resources:** A repository to compile notes, scripts, and tutorials from my learning journey.
-- **CTF Challenges:** Documenting and solving Capture The Flag (CTF) challenges as I progress.
-- **Experimental Tools:** Small scripts and tools that help me understand network security better.
-
-Feel free to follow along, contribute, or share your own insights as I navigate the exciting world of cybersecurity!
-
-## Achievements & Learning Milestones
-
-- **Newbie in Cyber:** I'm at the beginning of my cybersecurity journey, continually learning through hands-on experience and online platforms.
-- **CTF Participation:** I'm starting to dip my toes into CTF competitions to test my skills and learn from real-world challenges.
-- **Workshops & Tutorials:** Actively engaging with online courses, tutorials, and community-driven projects to build my expertise.
-
-## GitHub Stats
-
-[![Plug0007's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Plug0007&show_icons=true&theme=radical)](https://github.com/Plug0007)
-
-## Connect with Me
-
-I'm always open to connecting with fellow learners, cybersecurity professionals, and anyone curious about ethical hacking. Reach out to me through:
-
-- **Email:** [plug9999999@gmail.com](mailto:plug9999999@gmail.com)
-- **LinkedIn:** [Aadil Badhra](https://www.linkedin.com/in/aadil-badhra-09819931a)
-
-## Inspirational Quote
-
-> "Every expert was once a beginner."  
-> — Helen Hayes
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
 ---
 
-*Join me as I take my first steps into cybersecurity. Whether you have advice, resources, or just want to chat about the latest in ethical hacking, feel free to reach out!*
+## 🧠 About Me
 
-<!--
-Plug0007/Plug0007 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+```bash
+> I’m Aadil aka Plug0007
+> Cybersecurity Learner | Full Stack Curious | CTF Hunter
+> Passionate about Linux, Python, Networking, & Hacking Tools
+```
+
+- 🌱 Currently learning: Python, Bash, AWS, Firebase, Node.js, MongoDB, Steganography, Arduino
+- 🔐 Exploring: TryHackMe | HackTheBox | Metasploit | Wireshark
+- 🔭 Building: Recon scripts, CTF writeups, Ethical hacking mini tools
+- ⚡ Fun fact: I decode hidden files for fun 🕵️‍♂️
+
+---
+
+## 🚀 Skills & Tools
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=gnubash)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+![Arduino](https://img.shields.io/badge/-Arduino-000?style=for-the-badge&logo=arduino)
+
+### 🧪 Cyber & Security
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-000?style=for-the-badge&logo=kalilinux)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=for-the-badge&logo=wireshark)
+![Metasploit](https://img.shields.io/badge/-Metasploit-000?style=for-the-badge)
+![Steganography](https://img.shields.io/badge/-Steganography-000?style=for-the-badge)
+
+### 🌐 Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Plug0007&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Plug0007&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plug0007&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+- 📧 Email: [plug9999999@gmail.com](mailto:plug9999999@gmail.com)
+- 💼 LinkedIn: [aadil-badhra](https://linkedin.com/in/aadil-badhra-09819931a)
+- 🏠 GitHub: [github.com/Plug0007](https://github.com/Plug0007)
+
+---
+
+## 📰 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🐍 GitHub Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Plug0007/Plug0007/output/github-contribution-grid-snake.svg" alt="snake animation">
+</p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Plug0007&style=flat-square)
