@@ -1,5 +1,5 @@
 <!-- ==================== PROFILE INTRO ==================== -->
-<h1 align="center">Hi, I'm Raelyaan 👋</h1>
+<h1 align="center">Hi, I'm Aadil Badhra 👋</h1>
 <h3 align="center">Computer Science Student | Cybersecurity Enthusiast | Software Developer</h3>
 
 <p align="center">
